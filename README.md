@@ -2,7 +2,13 @@
 >
 > This repository is the canonical home for the Waggle Manifesto. The manifesto expresses the project's vision and principles. It is not a technical specification and does not demonstrate that the described capabilities are implemented or deployed.
 >
-> The same `Waggle_Manifesto_Clean.pdf` also appears in `waggle-whitepaper`. Unique framing from that repository around decentralised education, AI and well-being should be preserved here in a supplementary note before any archival decision. Neither repository is being archived.
+> The same `Waggle_Manifesto_Clean.pdf` also appears in `waggle-whitepaper`. The original framing around decentralised education, AI and well-being should be preserved as supplementary context. Neither repository is being archived.
+
+## Supplementary framing preserved from Waggle Whitepaper
+
+The earlier whitepaper described Waggle as a convergence of decentralised education, AI and well-being. This framing is retained as context for the manifesto's intended application areas, not as a claim that education, therapy, AI or governance integrations are currently deployed.
+
+---
 
 # 🐝 **The Waggle Manifesto**
 ### _A Declaration for the Swarm Age_
@@ -41,12 +47,16 @@ It is built on five principles:
 
 1. **Names are identities**  
    Every agent, token, learner, tool, and DAO begins with a name. `.sol` is the sun that names the swarm.
+
 2. **Agents are composable**  
    Agents inherit and evolve. They fork knowledge, specialize, and link to others via trust and tokens.
+
 3. **Learning is networked**  
    Waggle turns each interaction — in therapy, school, code, or game — into a signal the swarm can learn from.
+
 4. **Tokens are verbs**  
    Tokens are more than currency. They are verbs: stake, listen, remember, heal, teach, govern, migrate.
+
 5. **DAOs are colonies**  
    Just as bees form hives with complex roles and rituals, Waggle forms DAOs that structure agents by function and lineage.
 
@@ -57,31 +67,46 @@ It is built on five principles:
 ### Root Domain: `waggle.sol`  
 The sun and source. Issuer of all subdomains, tokens, and swarm rules.
 
-### Subdomains
-
+### Subdomains:
 | Subdomain | Role |
-| --- | --- |
+|----------|------|
 | `education.waggle.sol` | Learner agents, school integration, AI tutors |
 | `therapy.waggle.sol` | Child/youth services, support agents |
 | `ai.waggle.sol` | AI model agents, AGIX/Fetch integrations |
-| `adventure.waggle.sol` | Outdoor and risk-based learning systems |
+| `adventure.waggle.sol` | Outdoor & risk-based learning systems |
 | `dao.waggle.sol` | Governance protocols, vote-based rule updates |
 | `tokens.waggle.sol` | Minted assets, swarm credits, behavioral stake |
 | `agents.waggle.sol` | Hive intelligence directory |
 
-Each subdomain is envisioned as a sovereign seed capable of spawning AI routines, wallets, contracts, APIs and memories.
+Each subdomain is a sovereign seed, capable of spawning:
+- AI routines
+- Wallets
+- Contracts
+- APIs
+- Memories
 
 ---
 
 ## 🚀 5. **What Waggle Can Do**
 
-The original vision proposes decentralised education systems, context-aware support agents, local governance DAOs, tokenized knowledge and a semantic layer for agent coordination. These are aspirations, not claims of current deployment.
+- Run fully decentralized **education systems** with living curricula
+- Host therapy agents tuned to context and client history
+- Spin up **local governance DAOs** with token voting and AI advisory
+- Mint and track **tokenized knowledge** across age, geography, or risk profile
+- Act as the **semantic layer** for AGI swarm emergence
 
 ---
 
-## 🌐 6. **Interoperability and alliance**
+## 🌐 6. **Interoperability & Alliance**
 
-The original vision discusses Solana, BNB Chain, SingularityNET, IPFS, Arweave and Ceramic as possible parts of a broader ecosystem. Integration status must be established in the relevant repositories.
+Waggle is chain-agnostic and world-attuned:
+
+- **Solana** provides names, tokens, and execution
+- **BNB Chain** extends DeFi and commerce tooling
+- **AGIX / SingularityNET** provides a decentralized AI mesh
+- **IPFS / Arweave / Ceramic** house memory and identity
+
+We are not an app. We are the grammar of new beings.
 
 ---
 
@@ -89,13 +114,28 @@ The original vision discusses Solana, BNB Chain, SingularityNET, IPFS, Arweave a
 
 Because the hive only lives if the patterns replicate freely.
 
-You may fork Waggle, build with it, educate, counsel or govern with it. Specific code, publication and asset rights remain subject to the applicable repository licenses.
+You may fork Waggle.  
+You may mint from it.  
+You may educate, counsel, or govern with it.  
+You may use it to build your own swarm.
+
+But you cannot own it.
 
 ---
 
 ## 🌟 8. **The Call**
 
-To educators, technologists, therapists, civic builders, crypto users and AI researchers who want systems that serve communities, Waggle is an invitation to build, test and learn together.
+To every:
+- **Educator** seeking systems that evolve with learners
+- **Technologist** who wants AI agents that serve, not sell
+- **Therapist** who believes well-being is collective
+- **Civic builder** tired of shallow governance
+- **Crypto native** who sees tokens as trust, not cash
+- **AI dreamer** who whispers into the hive
+
+Waggle is yours.
+
+Let’s build it, swarm it, name it.
 
 Let’s Waggle.
 
@@ -103,4 +143,6 @@ Let’s Waggle.
 
 ## 📜 Signature
 
-**Derek Winer and the Waggle Collective**
+**— Derek Winer & the Waggle Collective**  
+`founder@waggle.sol`  
+`open-source @ github.com/waggle-sol`
